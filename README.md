@@ -1,16 +1,29 @@
-# rango_mobile
+# App Rango
 
-A new Flutter project.
+App para lanchonetes desenvolvido em Flutter.
 
-## Getting Started
+![Rango](./assets/images/RangoIcon.png)
 
-This project is a starting point for a Flutter application.
+# Telas
 
-A few resources to get you started if this is your first Flutter project:
+- ## Login
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  - ![Tela de Login](./assets/LOGI.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ## Cadastro
+  - ![Cadastro](./assets/CADASTRO-MOBILE.PNG)
+
+- ## Feed
+  - ![Feed](./assets/FEED-MOBILE.PNG)
+
+- ## Perfil
+  - ![Perfil](./assets/PERFIL-MOBILE.PNG)
+
+- ## Pesquisa
+  - ![Pesquisa](./assets/PESQUISA-MOBILE.PNG)
+  - 
+  - ![Pesquisa](./assets/PESQUISA2-MOBILE.PNG)
+
+- ## Post
+  - ![Post](./assets/POST-MOBILE.PNG)
+  - rence.
