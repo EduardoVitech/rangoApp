@@ -7,23 +7,26 @@ App para lanchonetes desenvolvido em Flutter.
 # Telas
 
 - ## Login
+  - ![Tela de Inicio](./assets/ENTRADA.png)
 
-  - ![Tela de Login](./assets/LOGI.png)
+- ## Login
+  - ![Tela de Login](./assets/LOGIN.png)
 
 - ## Cadastro
-  - ![Cadastro](./assets/CADASTRO-MOBILE.PNG)
+  - ![Cadastro](./assets/CADASTRO.png)
 
-- ## Feed
-  - ![Feed](./assets/FEED-MOBILE.PNG)
+- ## Home
+  - ![Home](./assets/CARDAPIO.png)
 
-- ## Perfil
-  - ![Perfil](./assets/PERFIL-MOBILE.PNG)
+- ## Produto
+  - ![Produto](./assets/PRODUTO.png)
 
-- ## Pesquisa
-  - ![Pesquisa](./assets/PESQUISA-MOBILE.PNG)
-  - 
-  - ![Pesquisa](./assets/PESQUISA2-MOBILE.PNG)
+- ## Carrinho
+  - ![Carrinho](./assets/CARRINHO.png)
 
-- ## Post
-  - ![Post](./assets/POST-MOBILE.PNG)
-  - rence.
+- ## Compra
+  - ![Compra](./assets/COMPRA.png)
+
+- ## Pagamento
+  - ![Pagamento](./assets/QRCODE.png)
+ 
