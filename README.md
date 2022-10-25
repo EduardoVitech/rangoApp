@@ -6,7 +6,7 @@ App para lanchonetes desenvolvido em Flutter.
 
 # Telas
 
-- ## Login
+- ## Inicio
   - ![Tela de Inicio](./assets/ENTRADA.png)
 
 - ## Login
